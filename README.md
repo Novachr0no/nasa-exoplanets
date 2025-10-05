@@ -18,6 +18,13 @@ Built for the NASA Space Apps Challenge 2025.
 
 Try the app here: [nasa-exoplanets.streamlit.app](https://nasa-exoplanets-dj8z8po6dacasd7ygf7qc8.streamlit.app/)
 
+## 🔭 What's Next
+
+- Add support for Kepler and TESS datasets  
+- Integrate automatic transit detection  
+- Enable user feedback and annotation  
+- Expand model suite with deep learning
+
 ## 📦 Installation
 
 Clone the repo and install dependencies:
