@@ -18,3 +18,5 @@ streamlit run app.py
 - requirements.txt: Dependencies
 - koi_data.csv: Training dataset
 - test_data.csv: Evaluation set
+
+Try the app here: nasa-exoplanets.streamlit.app
