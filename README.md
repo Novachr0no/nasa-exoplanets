@@ -23,7 +23,7 @@ Try the app here: [nasa-exoplanets.streamlit.app](https://nasa-exoplanets-dj8z8p
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/nasa-exoplanets.git
+git clone https://github.com/Novachr0no/nasa-exoplanets.git
 cd nasa-exoplanets
 pip install -r requirements.txt
 streamlit run app.py
